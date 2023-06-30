@@ -1,1 +1,3 @@
-public class File2 {}
+public class File2 {
+	// Macht nix
+}
